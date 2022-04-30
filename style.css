@@ -1,0 +1,15 @@
+body{
+    background-image: url("/4gcd.gif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+#button-in{
+    background-color: aqua;
+}
+#button-sa{
+    background-color: azure;
+}
+#enter{
+   color: rgb(242, 255, 0);
+}
